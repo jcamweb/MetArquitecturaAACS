@@ -1,0 +1,240 @@
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/appsettings.Development.json
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/appsettings.json
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Host
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Host.deps.json
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Host.runtimeconfig.json
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Host.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Host.pdb
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/FluentResults.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Google.Apis.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Google.Apis.Auth.PlatformServices.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Google.Apis.Auth.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Google.Apis.Core.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Humanizer.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/MediatR.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/MediatR.Contracts.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.Extensions.Http.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Npgsql.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/PasswordGenerator.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Db.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Domain.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Db.pdb
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/bin/Debug/net6.0/Domain.pdb
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/obj/Debug/net6.0/Host.csproj.AssemblyReference.cache
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/obj/Debug/net6.0/Host.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/obj/Debug/net6.0/Host.AssemblyInfoInputs.cache
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/obj/Debug/net6.0/Host.AssemblyInfo.cs
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/obj/Debug/net6.0/Host.csproj.CoreCompileInputs.cache
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/obj/Debug/net6.0/Host.MvcApplicationPartsAssemblyInfo.cs
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/obj/Debug/net6.0/Host.MvcApplicationPartsAssemblyInfo.cache
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/obj/Debug/net6.0/staticwebassets.build.json
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/obj/Debug/net6.0/staticwebassets.development.json
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/obj/Debug/net6.0/scopedcss/bundle/Host.styles.css
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/obj/Debug/net6.0/Host.csproj.CopyComplete
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/obj/Debug/net6.0/Host.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/obj/Debug/net6.0/refint/Host.dll
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/obj/Debug/net6.0/Host.pdb
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/obj/Debug/net6.0/Host.genruntimeconfig.cache
+/Users/michalszala/Desktop/Development/Medium/Authentication Guide/5 Simple login and register API/TokenAuthNet5/Host/obj/Debug/net6.0/ref/Host.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/appsettings.Development.json
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/appsettings.json
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Host
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Host.deps.json
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Host.runtimeconfig.json
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Host.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Host.pdb
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/FluentResults.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Google.Apis.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Google.Apis.Auth.PlatformServices.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Google.Apis.Auth.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Google.Apis.Core.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Humanizer.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/MediatR.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/MediatR.Contracts.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.Extensions.Http.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Npgsql.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/PasswordGenerator.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Db.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Domain.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Db.pdb
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/bin/Debug/net6.0/Domain.pdb
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/obj/Debug/net6.0/Host.csproj.AssemblyReference.cache
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/obj/Debug/net6.0/Host.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/obj/Debug/net6.0/Host.AssemblyInfoInputs.cache
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/obj/Debug/net6.0/Host.AssemblyInfo.cs
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/obj/Debug/net6.0/Host.csproj.CoreCompileInputs.cache
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/obj/Debug/net6.0/Host.MvcApplicationPartsAssemblyInfo.cs
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/obj/Debug/net6.0/Host.MvcApplicationPartsAssemblyInfo.cache
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/obj/Debug/net6.0/staticwebassets.build.json
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/obj/Debug/net6.0/staticwebassets.development.json
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/obj/Debug/net6.0/scopedcss/bundle/Host.styles.css
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/obj/Debug/net6.0/Host.csproj.CopyComplete
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/obj/Debug/net6.0/Host.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/obj/Debug/net6.0/refint/Host.dll
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/obj/Debug/net6.0/Host.pdb
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/obj/Debug/net6.0/Host.genruntimeconfig.cache
+/Users/michalszala/Desktop/Development/Medium/CompleteAuthenticationGuide/Api/Host/obj/Debug/net6.0/ref/Host.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\Host.csproj.AssemblyReference.cache
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\Host.AssemblyInfoInputs.cache
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\Host.AssemblyInfo.cs
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\Host.csproj.CoreCompileInputs.cache
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\Host.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\Host.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\Host.sourcelink.json
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\Host.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\refint\Host.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\Host.pdb
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\appsettings.json
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Host.staticwebassets.endpoints.json
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Host.exe
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Host.deps.json
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Host.runtimeconfig.json
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Host.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Host.pdb
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Humanizer.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\MediatR.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Npgsql.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Db.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Domain.dll
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Db.pdb
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\bin\Debug\net6.0\Domain.pdb
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\rjimswa.dswa.cache.json
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\scopedcss\bundle\Host.styles.css
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\Host.csproj.Up2Date
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\Host.genruntimeconfig.cache
+C:\Users\juanC\Source\Repos\CompleteAuthenticationGuide\Api\Host\obj\Debug\net6.0\ref\Host.dll

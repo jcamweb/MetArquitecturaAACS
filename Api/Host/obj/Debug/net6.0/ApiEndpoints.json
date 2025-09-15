@@ -1,0 +1,291 @@
+[
+  {
+    "ContainingType": "AuthenticationApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Domain.Dtos.Auth.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Domain.Dtos.Auth.LoginResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      }
+    ]
+  },
+  {
+    "ContainingType": "AuthenticationApi.Controllers.AuthController",
+    "Method": "RefreshToken",
+    "RelativePath": "Auth/refresh-token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Domain.Dtos.Auth.RefreshTokenDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Domain.Dtos.Auth.RefreshTokenDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      }
+    ]
+  },
+  {
+    "ContainingType": "AuthenticationApi.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Domain.Dtos.Auth.RegisterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Domain.Dtos.Auth.RegisterResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      }
+    ]
+  },
+  {
+    "ContainingType": "AuthenticationApi.Controllers.AuthController",
+    "Method": "SocialLogin",
+    "RelativePath": "Auth/social-login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Domain.Dtos.Auth.SocialLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Domain.Dtos.Auth.LoginResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      }
+    ]
+  },
+  {
+    "ContainingType": "AuthenticationApi.Controllers.AuthTestingController",
+    "Method": "GetDataForAdminsOnly",
+    "RelativePath": "AuthTesting/adminOnly",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 401
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 403
+      }
+    ]
+  },
+  {
+    "ContainingType": "AuthenticationApi.Controllers.AuthTestingController",
+    "Method": "GetDataForAll",
+    "RelativePath": "AuthTesting/anonymous",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 401
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 403
+      }
+    ]
+  },
+  {
+    "ContainingType": "AuthenticationApi.Controllers.AuthTestingController",
+    "Method": "GetDataForRegisteredOnly",
+    "RelativePath": "AuthTesting/registered",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 401
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 403
+      }
+    ]
+  }
+]

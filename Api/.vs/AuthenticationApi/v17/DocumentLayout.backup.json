@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0192A260-471D-4C78-95CF-76D25C49C3DE}|Host\\Host.csproj|c:\\users\\juanc\\source\\repos\\completeauthenticationguide\\api\\host\\extensions\\registerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0192A260-471D-4C78-95CF-76D25C49C3DE}|Host\\Host.csproj|solutionrelative:host\\extensions\\registerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0192A260-471D-4C78-95CF-76D25C49C3DE}|Host\\Host.csproj|c:\\users\\juanc\\source\\repos\\completeauthenticationguide\\api\\host\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0192A260-471D-4C78-95CF-76D25C49C3DE}|Host\\Host.csproj|solutionrelative:host\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0192A260-471D-4C78-95CF-76D25C49C3DE}|Host\\Host.csproj|c:\\users\\juanc\\source\\repos\\completeauthenticationguide\\api\\host\\middleware\\exceptionmiddlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0192A260-471D-4C78-95CF-76D25C49C3DE}|Host\\Host.csproj|solutionrelative:host\\middleware\\exceptionmiddlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0192A260-471D-4C78-95CF-76D25C49C3DE}|Host\\Host.csproj|c:\\users\\juanc\\source\\repos\\completeauthenticationguide\\api\\host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0192A260-471D-4C78-95CF-76D25C49C3DE}|Host\\Host.csproj|solutionrelative:host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0192A260-471D-4C78-95CF-76D25C49C3DE}|Host\\Host.csproj|c:\\users\\juanc\\source\\repos\\completeauthenticationguide\\api\\host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0192A260-471D-4C78-95CF-76D25C49C3DE}|Host\\Host.csproj|solutionrelative:host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0192A260-471D-4C78-95CF-76D25C49C3DE}|Host\\Host.csproj|c:\\users\\juanc\\source\\repos\\completeauthenticationguide\\api\\host\\host.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0192A260-471D-4C78-95CF-76D25C49C3DE}|Host\\Host.csproj|solutionrelative:host\\host.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51CF11A-6E74-4E95-8DE3-0F52CA140408}|Db\\Db.csproj|c:\\users\\juanc\\source\\repos\\completeauthenticationguide\\api\\db\\seedmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51CF11A-6E74-4E95-8DE3-0F52CA140408}|Db\\Db.csproj|solutionrelative:db\\seedmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51CF11A-6E74-4E95-8DE3-0F52CA140408}|Db\\Db.csproj|c:\\users\\juanc\\source\\repos\\completeauthenticationguide\\api\\db\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51CF11A-6E74-4E95-8DE3-0F52CA140408}|Db\\Db.csproj|solutionrelative:db\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51CF11A-6E74-4E95-8DE3-0F52CA140408}|Db\\Db.csproj|c:\\users\\juanc\\source\\repos\\completeauthenticationguide\\api\\db\\migrations\\20250914154620_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51CF11A-6E74-4E95-8DE3-0F52CA140408}|Db\\Db.csproj|solutionrelative:db\\migrations\\20250914154620_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51CF11A-6E74-4E95-8DE3-0F52CA140408}|Db\\Db.csproj|c:\\users\\juanc\\source\\repos\\completeauthenticationguide\\api\\db\\db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C51CF11A-6E74-4E95-8DE3-0F52CA140408}|Db\\Db.csproj|solutionrelative:db\\db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51CF11A-6E74-4E95-8DE3-0F52CA140408}|Db\\Db.csproj|c:\\users\\juanc\\source\\repos\\completeauthenticationguide\\api\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51CF11A-6E74-4E95-8DE3-0F52CA140408}|Db\\Db.csproj|solutionrelative:db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA141A17-5AF3-434E-AFD1-5B2664F765EC}|Domain\\Domain.csproj|c:\\users\\juanc\\source\\repos\\completeauthenticationguide\\api\\domain\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA141A17-5AF3-434E-AFD1-5B2664F765EC}|Domain\\Domain.csproj|solutionrelative:domain\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterExtension.cs",
+              "DocumentMoniker": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Host\\Extensions\\RegisterExtension.cs",
+              "RelativeDocumentMoniker": "Host\\Extensions\\RegisterExtension.cs",
+              "ToolTip": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Host\\Extensions\\RegisterExtension.cs",
+              "RelativeToolTip": "Host\\Extensions\\RegisterExtension.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T17:12:21.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Host\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Host\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Host\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Host\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T15:59:24.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeedManager.cs",
+              "DocumentMoniker": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Db\\SeedManager.cs",
+              "RelativeDocumentMoniker": "Db\\SeedManager.cs",
+              "ToolTip": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Db\\SeedManager.cs",
+              "RelativeToolTip": "Db\\SeedManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T15:53:10.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Db\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Db\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Db\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Db\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T15:50:29.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Host\\Program.cs",
+              "RelativeDocumentMoniker": "Host\\Program.cs",
+              "ToolTip": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Host\\Program.cs",
+              "RelativeToolTip": "Host\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T14:38:59.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Host\\appsettings.json",
+              "RelativeDocumentMoniker": "Host\\appsettings.json",
+              "ToolTip": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Host\\appsettings.json",
+              "RelativeToolTip": "Host\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-14T14:09:42.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionMiddlewareExtension.cs",
+              "DocumentMoniker": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Host\\Middleware\\ExceptionMiddlewareExtension.cs",
+              "RelativeDocumentMoniker": "Host\\Middleware\\ExceptionMiddlewareExtension.cs",
+              "ToolTip": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Host\\Middleware\\ExceptionMiddlewareExtension.cs",
+              "RelativeToolTip": "Host\\Middleware\\ExceptionMiddlewareExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T16:00:41.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250914154620_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Db\\Migrations\\20250914154620_Initial.cs",
+              "RelativeDocumentMoniker": "Db\\Migrations\\20250914154620_Initial.cs",
+              "ToolTip": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Db\\Migrations\\20250914154620_Initial.cs",
+              "RelativeToolTip": "Db\\Migrations\\20250914154620_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T15:46:20.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Host.csproj",
+              "DocumentMoniker": "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Host\\Host.csproj",
+              "RelativeDocumentMoniker": "Host\\Host.csproj",
+              "ToolTip": "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Host\\Host.csproj",
+              "RelativeToolTip": "Host\\Host.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-14T14:08:13.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Db\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Db\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Db\\AppDbContext.cs",
+              "RelativeToolTip": "Db\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T14:28:56.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Consts.cs",
+              "DocumentMoniker": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Domain\\Consts.cs",
+              "RelativeDocumentMoniker": "Domain\\Consts.cs",
+              "ToolTip": "C:\\Users\\juanC\\source\\repos\\CompleteAuthenticationGuide\\Api\\Domain\\Consts.cs",
+              "RelativeToolTip": "Domain\\Consts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T14:44:54.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Db.csproj",
+              "DocumentMoniker": "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Db\\Db.csproj",
+              "RelativeDocumentMoniker": "Db\\Db.csproj",
+              "ToolTip": "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Db\\Db.csproj",
+              "RelativeToolTip": "Db\\Db.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-14T14:08:46.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
