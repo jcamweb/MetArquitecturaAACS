@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Host\\Host.csproj": {}
+    "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Host\\Host.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Db\\Db.csproj": {
+    "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Db\\Db.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Db\\Db.csproj",
+        "projectUniqueName": "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Db\\Db.csproj",
         "projectName": "Db",
-        "projectPath": "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Db\\Db.csproj",
+        "projectPath": "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Db\\Db.csproj",
         "packagesPath": "C:\\Users\\juanC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Db\\obj\\",
+        "outputPath": "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Db\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Domain\\Domain.csproj"
+              "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Domain\\Domain.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Domain\\Domain.csproj": {
+    "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\juanC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -180,14 +180,14 @@
         }
       }
     },
-    "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Host\\Host.csproj": {
+    "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Host\\Host.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Host\\Host.csproj",
+        "projectUniqueName": "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Host\\Host.csproj",
         "projectName": "Host",
-        "projectPath": "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Host\\Host.csproj",
+        "projectPath": "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Host\\Host.csproj",
         "packagesPath": "C:\\Users\\juanC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Host\\obj\\",
+        "outputPath": "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Host\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -209,8 +209,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Db\\Db.csproj": {
-                "projectPath": "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Db\\Db.csproj"
+              "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Db\\Db.csproj": {
+                "projectPath": "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Db\\Db.csproj"
               }
             }
           }

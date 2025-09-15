@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k1MuU6OBIgw=",
+  "dgSpecHash": "dJ1Rw8JlCJo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juanC\\.nuget\\packages\\google.apis\\1.57.0\\google.apis.1.57.0.nupkg.sha512",
     "C:\\Users\\juanC\\.nuget\\packages\\google.apis.auth\\1.57.0\\google.apis.auth.1.57.0.nupkg.sha512",
@@ -42,9 +42,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "El paquete \"System.IdentityModel.Tokens.Jwt\" 6.25.0 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
-      "projectPath": "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Domain\\Domain.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Domain\\Domain.csproj",
+      "filePath": "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Domain\\Domain.csproj",
       "libraryId": "System.IdentityModel.Tokens.Jwt",
       "targetGraphs": [
         "net6.0"

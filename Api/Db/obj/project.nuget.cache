@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3F0PKpTdmU0=",
+  "dgSpecHash": "cU8eZobjn+s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\juanC\\Source\\Repos\\CompleteAuthenticationGuide\\Api\\Db\\Db.csproj",
+  "projectFilePath": "C:\\Users\\juanC\\Source\\Repos\\MetArquitecturaAACS\\Api\\Db\\Db.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juanC\\.nuget\\packages\\google.apis\\1.57.0\\google.apis.1.57.0.nupkg.sha512",
     "C:\\Users\\juanC\\.nuget\\packages\\google.apis.auth\\1.57.0\\google.apis.auth.1.57.0.nupkg.sha512",
